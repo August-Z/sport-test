@@ -24,5 +24,6 @@ npm run dev
 
 >项目完成之后发到此邮箱 fanxiaole@highyundong.com
 
-##参考效果图
-![效果图](src/assets/01.jpg)
+## 参考原型图
+
+![原型图](src/assets/01.jpg)
