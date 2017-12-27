@@ -22,7 +22,7 @@ npm run dev
 6. 上拉加载超过90张，底部显示全部加载完毕样式，不能再继续上拉加载了；
 7. 大概样式和元素可以参考原型图，单需要进行UI上的调整和设计;
 
->项目完成之后发到此邮箱 fanxiaole@highyundong.com
+>图片素材在src/assets/images下面, 项目完成之后发到此邮箱 fanxiaole@highyundong.com
 
 ## 参考原型图
 
